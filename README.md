@@ -24,4 +24,4 @@ This is a simple Java spring boot application build during SDA hackathon. Projec
 #### Team1-ElasticBeanstalk
 - <a href="https://github.com/Abdullah98aw"> Abdullah Alawad </a>
 - <a href="https://github.com/DohaHQ"> Doha Alqadi </a>
-  - <a href="https://github.com/Adwaa1995"> Adwaa </a>
+- <a href="https://github.com/Adwaa1995"> Adwaa </a>
