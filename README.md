@@ -20,26 +20,8 @@ This is a simple Java spring boot application build during SDA hackathon. Projec
 
 ### Contributors
 
-#### Developers
-- 
-- 
 
 #### Team1-ElasticBeanstalk
-- 
-- 
-
-#### Team2-EC2withVPC
-- 
-- 
-
-#### Team3-Kubernetes
-- 
-- 
-
-#### Team4-DockerCompose and swarm
-- 
-- 
-
-#### Team5-Docker and docker swarm
-- 
-- 
+- <a href="https://github.com/Abdullah98aw"> Abdullah Alawad </a>
+- <a href="https://github.com/DohaHQ"> Doha Alqadi </a>
+  - <a href="https://github.com/Adwaa1995"> Adwaa </a>
