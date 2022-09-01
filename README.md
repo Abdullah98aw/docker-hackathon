@@ -1,6 +1,14 @@
 ## Golden Waste SDA Hackathon
 
 <h3 align="center">
+As DevOps team We Deploy, monitoring and test project.
+
+Elastic Beanstalk: is an easy-to-use service for deploying and scaling web applications and services developed with multiple language on familiar servers such as Apache and Nginx.
+
+So we have challange how to deploy the project 
+</h3>
+
+<h3 align="center">
 Golden Waste SDA Hackathon
 </h3>
 
