@@ -15,7 +15,7 @@ pipeline {
 		stage('Build') {
 
 			steps {
-				sh 'docker build -t 13cd9e044e53/goldenwaste:latest .'
+				sh 'docker build -t 13cd9e044e53/13cd9e044e53/goldenwaste:latest .'
 			}
 		}
 
