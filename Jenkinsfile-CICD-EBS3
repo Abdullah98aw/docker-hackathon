@@ -5,9 +5,9 @@ pipeline {
         AWS_ACCESS_KEY_ID     = credentials('Access-key-ID')
         AWS_SECRET_ACCESS_KEY = credentials('Secret-access-key')
         ARTIFACT_NAME = 'goldenWastedd-0.0.1-SNAPSHOT.jar'
-        AWS_S3_BUCKET = 'team-db'
-        AWS_EB_APP_NAME = 'Goldenproject'
-        AWS_EB_ENVIRONMENT = 'Goldenproject-env'
+        AWS_S3_BUCKET = 'alawad-s3'
+        AWS_EB_APP_NAME = 'alawad'
+        AWS_EB_ENVIRONMENT = 'alawad-env'
         AWS_EB_APP_VERSION = "${BUILD_ID}"
     } 
     stages {
